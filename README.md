@@ -1,4 +1,4 @@
-<h1 align="right">Welcome to jungkwan's GitHub👋</h1>
+<h1 align="right">Welcome to jungkwan's GitHub<img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="👋" aria-hidden="true" width="30" /></h1>
 
 ###
 
